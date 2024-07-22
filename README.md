@@ -1,6 +1,22 @@
 ### Hi there 👋 I'm Maxmiliano Baruk,
 
 I am a fourth year student of mechatronics engineering at the Instituto Tecnológico de Morelia and I am also taking various courses on Front-End with frameworks like Astro and Tailwind.
+<!--  -->.
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Every+seconds+count;Maximiliano+Baruk;Student+of+mechatronics+engineering;Front-end+developer" alt="Typing SVG" /></a>
+</p>
+
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 - ⚡ **Fun fact:** I believe in *chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not initially seen.
 - 🔭 I am currently studying
