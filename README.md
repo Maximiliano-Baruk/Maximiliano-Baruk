@@ -61,7 +61,7 @@ I am a fourth year student of mechatronics engineering at the Instituto Tecnoló
    <i>Every second counts</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/max-trag-6020a231b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/maximiliano-rosas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:maxibaruk55121gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/matzi.rosas/"><img src="https://img.shields.io/badge/-Instagram-FF8000?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <br>
